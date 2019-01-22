@@ -22,3 +22,15 @@
 
 ## CyclicBarrier
 ![cyclicbarrier.png](https://github.com/geekerstar/high-concurrency/blob/master/img/cyclicbarrier.png)
+
+## ReentrantLock 与锁
+ReentrantLock(可重入锁)和synchronized区别
+- 可重入性
+- 锁的实现
+- 性能的区别
+- 功能区别
+
+ReentrantLock独有功能
+- 可指定是公平锁还是非公平锁
+- 提供了一个Condition类，可以分组唤醒需要唤醒的线程
+- 提供能够中断等待锁的线程的机制，lock.lockInterruptibly()
