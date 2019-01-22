@@ -42,3 +42,14 @@ ReentrantLock独有功能
 
 ## Fork/Join 框架
 ![fork.png](https://github.com/geekerstar/high-concurrency/blob/master/img/fork.png)
+
+## BlockingQueue
+![block.png](https://github.com/geekerstar/high-concurrency/blob/master/img/block.png)
+
+![block2.png](https://github.com/geekerstar/high-concurrency/blob/master/img/block2.png)
+
+- ArrayBlockingQueue
+- DelayQueue
+- LinkedBlockingQueue
+- PriorityBlockingQueue
+- SynchronousQueue
