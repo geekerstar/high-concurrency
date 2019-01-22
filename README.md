@@ -25,7 +25,7 @@
 ![semaphore.png](https://github.com/geekerstar/high-concurrency/blob/master/img/semaphore.png)
 
 ## CyclicBarrier
-![cyclicbarrier.png](https://github.com/geekerstar/high-concurrency/blob/master/img/cyclicbarrier.png)
+![cyclicbarrier.png](https://github.com/geekerstar/high-concurrency/blob/master/img/cyclicbarrier1.png)
 
 
 ## ReentrantLock 与锁
