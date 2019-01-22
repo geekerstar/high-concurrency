@@ -15,3 +15,8 @@
 - ReentrantLock
 - Condition
 - FutureTask
+
+## Semaphore
+
+![semaphore.png](https://github.com/geekerstar/high-concurrency/blob/master/img/semaphore.png)
+
