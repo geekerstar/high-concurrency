@@ -24,3 +24,5 @@
 
 ![semaphore.png](https://github.com/geekerstar/high-concurrency/blob/master/img/semaphore.png)
 
+## CyclicBarrier
+![cyclicbarrier.png](https://github.com/geekerstar/high-concurrency/blob/master/img/cyclicbarrier.png)
