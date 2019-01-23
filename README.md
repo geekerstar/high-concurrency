@@ -114,3 +114,7 @@ new Thread 弊端
 - 使用Semaphore创建有界的访问
 - 宁可使用同步代码块，也不使用同步的方法
 - 避免使用静态变量
+
+## Spring与线程安全
+- Spring bean：singleton、prototype
+- 无状态对象
