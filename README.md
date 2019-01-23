@@ -138,6 +138,8 @@ new Thread 弊端
 
 ![](https://github.com/geekerstar/high-concurrency/blob/master/img/chm2.png)
 
+## 多线程并发与线程安全总结
+![](https://github.com/geekerstar/high-concurrency/blob/master/img/d.jpg)
 
 
 
