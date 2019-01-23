@@ -154,6 +154,43 @@ new Thread 弊端
 - 读操作扩展：memcache、Redis、CDN等缓存
 - 写操作扩展：Cassandra、HBase等
 
+## 缓存
+![](https://github.com/geekerstar/high-concurrency/blob/master/img/huancun.png)
+
+
+### 缓存特征
+- 命中率：命中数/（命中数+没有命中数）
+- 最大元素（空间）
+- 清空策略：FIFO、LFU、LRU、过期时间、随机等
+
+### 缓存命中率影响因素
+- 业务场景和业务需求
+- 缓存的设计（粒度和策略）
+- 缓存容量和基础设施
+
+### 缓存分类和应用场景
+- 本地缓存：编程实现（成员变量、局部变量、静态变量）、Guava Cache
+- 分布式缓存：Memcache、Redis
+
+### 缓存 - Guava Cache
+
+![](https://github.com/geekerstar/high-concurrency/blob/master/img/cache1.png)
+
+### 缓存 - Memcache
+
+![](https://github.com/geekerstar/high-concurrency/blob/master/img/cache2.jpg)
+
+### Memcache 内存结构
+
+![](https://github.com/geekerstar/high-concurrency/blob/master/img/cache3.png)
+
+### 缓存 - Redis
+
+![](https://github.com/geekerstar/high-concurrency/blob/master/img/cache4.png)
+
+
+
+
 
 
 
