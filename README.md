@@ -1,3 +1,4 @@
+# 多线程与并发
 ## J.U.C
 
 ![juc.png](https://github.com/geekerstar/high-concurrency/blob/master/img/juc.png)
@@ -141,8 +142,17 @@ new Thread 弊端
 ## 多线程并发与线程安全总结
 ![](https://github.com/geekerstar/high-concurrency/blob/master/img/d.jpg)
 
+----
 
+# 高并发
 
+## 扩容
+- 垂直扩容（纵向扩展）：提高系统部件能力
+- 水平扩容（横向扩展）：增加更多系统成员来实现
+
+## 扩容 - 数据库
+- 读操作扩展：memcache、Redis、CDN等缓存
+- 写操作扩展：Cassandra、HBase等
 
 
 
