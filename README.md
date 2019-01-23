@@ -118,3 +118,33 @@ new Thread 弊端
 ## Spring与线程安全
 - Spring bean：singleton、prototype
 - 无状态对象
+
+## HashMap与ConcurrentHashMap
+### HashMap
+![](https://github.com/geekerstar/high-concurrency/blob/master/img/hashmap.png)
+
+![](https://github.com/geekerstar/high-concurrency/blob/master/img/hashmap2.png)
+
+![](https://github.com/geekerstar/high-concurrency/blob/master/img/hashmap3.png)
+
+![](https://github.com/geekerstar/high-concurrency/blob/master/img/hashmap4.png)
+
+![](https://github.com/geekerstar/high-concurrency/blob/master/img/hashmap5.png)
+
+![](https://github.com/geekerstar/high-concurrency/blob/master/img/hashmap6.png)
+
+### ConcurrentHashMap
+![](https://github.com/geekerstar/high-concurrency/blob/master/img/chm.png)
+
+![](https://github.com/geekerstar/high-concurrency/blob/master/img/chm2.png)
+
+
+
+
+
+
+
+
+
+
+
