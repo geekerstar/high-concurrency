@@ -188,6 +188,18 @@ new Thread 弊端
 
 ![](https://github.com/geekerstar/high-concurrency/blob/master/img/cache4.png)
 
+## 高并发场景下缓存常见问题
+### 缓存一致性
+![](https://github.com/geekerstar/high-concurrency/blob/master/img/h1.png)
+
+### 缓存并发问题
+![](https://github.com/geekerstar/high-concurrency/blob/master/img/h2.jpg)
+
+### 缓存穿透问题
+![](https://github.com/geekerstar/high-concurrency/blob/master/img/h3.jpg)
+
+### 缓存的雪崩现象
+![](https://github.com/geekerstar/high-concurrency/blob/master/img/h4.jpg)
 
 
 
