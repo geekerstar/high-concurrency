@@ -222,10 +222,40 @@ new Thread 弊端
 - 错峰与流控
 
 
-## 消息队列-Kafka
+### 消息队列-Kafka
 ![](https://github.com/geekerstar/high-concurrency/blob/master/img/kafka.jpg)
 
 
-## 消息队列-RabbitMQ
+### 消息队列-RabbitMQ
 ![](https://github.com/geekerstar/high-concurrency/blob/master/img/rabbit.png)
+
+## 应用拆分
+![](https://github.com/geekerstar/high-concurrency/blob/master/img/y.png)
+
+
+### 应用拆分 - 原则
+- 业务优先
+- 循序渐进
+- 兼顾技术：重构、分层
+- 可靠测试
+
+### 应用拆分 - 思考
+- 应用之间通信：RPC（dubbo等）、消息队列
+- 应用之间数据库设计：每个应用都有独立的数据库
+- 避免事务操作跨应用
+
+### Dubbo
+
+![](https://github.com/geekerstar/high-concurrency/blob/master/img/dubbo.png)
+
+
+### 微服务
+
+![](https://github.com/geekerstar/high-concurrency/blob/master/img/w.png)
+
+![](https://github.com/geekerstar/high-concurrency/blob/master/img/w2.png)
+
+
+
+
 
