@@ -256,6 +256,29 @@ new Thread 弊端
 ![](https://github.com/geekerstar/high-concurrency/blob/master/img/w2.png)
 
 
+## 应用限流
+
+![](https://github.com/geekerstar/high-concurrency/blob/master/img/x.png)
+
+### 应用限流 - 算法
+#### 计数器法
+
+![](https://github.com/geekerstar/high-concurrency/blob/master/img/x2.png)
+
+![](https://github.com/geekerstar/high-concurrency/blob/master/img/x3.png)
+
+#### 滑动窗口
+
+![](https://github.com/geekerstar/high-concurrency/blob/master/img/x4.png)
+
+#### 漏桶算法 (Leaky Bucket)
+
+![](https://github.com/geekerstar/high-concurrency/blob/master/img/x5.png)
+
+#### 令牌桶算法(Token Bucket)
+
+![](https://github.com/geekerstar/high-concurrency/blob/master/img/x6.png)
+
 
 
 
