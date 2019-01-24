@@ -202,10 +202,30 @@ new Thread 弊端
 ![](https://github.com/geekerstar/high-concurrency/blob/master/img/h4.jpg)
 
 
+## 消息队列
+
+![](https://github.com/geekerstar/high-concurrency/blob/master/img/m.png)
+
+### 消息队列特性
+- 业务无关：只做消息分发
+- FIFO：先投递先到达
+- 容灾：节点的动态增删和消息的持久化
+- 性能：吞吐量提升，系统内部通信效率提高
+
+### 为什么需要消息队列
+- 【生产】和【消费】的速度或稳定性等因素不一致
+
+### 消息队列的好处
+- 业务解耦
+- 最终一致性
+- 广播
+- 错峰与流控
 
 
+## 消息队列-Kafka
+![](https://github.com/geekerstar/high-concurrency/blob/master/img/kafka.jpg)
 
 
-
-
+## 消息队列-RabbitMQ
+![](https://github.com/geekerstar/high-concurrency/blob/master/img/rabbit.png)
 
