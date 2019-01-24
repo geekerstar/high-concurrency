@@ -318,3 +318,7 @@ new Thread 弊端
 - 横向（水平）分表与纵向（垂直）分表
 - 数据库分表：mybatis分表插件 shardbatis2.0
 
+## 高可用的一些手段
+- 任务调度系统分布式：elastic-job + zookeeper
+- 主备切换：Apache curator + zookeeper 分布式锁实现
+- 监控报警机制
