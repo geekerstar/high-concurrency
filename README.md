@@ -1,3 +1,19 @@
+## 并发模拟
+
+Postman：HTTP请求模拟工具
+
+Apache Bench（AB）：Apache附带的工具，测试网站性能
+
+JMeter：Apache组织开发的压力测试工具
+
+### postman
+
+![](https://github.com/geekerstar/high-concurrency/blob/master/img/post.jpg)
+
+### 并发模拟 - CountDownLatch
+![](https://github.com/geekerstar/high-concurrency/blob/master/img/cut.jpg)
+
+
 # 多线程与并发
 ## J.U.C
 
