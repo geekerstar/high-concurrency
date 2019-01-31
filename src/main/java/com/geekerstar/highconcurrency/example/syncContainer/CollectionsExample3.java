@@ -14,7 +14,7 @@ import java.util.concurrent.Semaphore;
 /**
  * @author geekerstar
  * date: 2019/1/22 10:54
- * description:
+ * description: Collections.synchronizedMap
  */
 @Slf4j
 @ThreadSafe

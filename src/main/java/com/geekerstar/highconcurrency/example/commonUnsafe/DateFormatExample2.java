@@ -12,7 +12,7 @@ import java.util.concurrent.Semaphore;
 /**
  * @author geekerstar
  * date: 2019/1/22 10:29
- * description: 堆栈封闭的方式，生命局部变量，安全
+ * description: 堆栈封闭的方式，声明局部变量，安全
  */
 @Slf4j
 @ThreadSafe

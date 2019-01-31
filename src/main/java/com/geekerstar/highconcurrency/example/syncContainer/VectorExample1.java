@@ -13,7 +13,7 @@ import java.util.concurrent.Semaphore;
 /**
  * @author geekerstar
  * date: 2019/1/22 10:46
- * description:
+ * description: Vector
  */
 @Slf4j
 @ThreadSafe

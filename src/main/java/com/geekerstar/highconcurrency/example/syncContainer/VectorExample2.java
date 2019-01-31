@@ -7,7 +7,7 @@ import java.util.Vector;
 /**
  * @author geekerstar
  * date: 2019/1/22 10:47
- * description:
+ * description: 验证vector线程不安全的情况
  */
 @NotThreadSafe
 public class VectorExample2 {

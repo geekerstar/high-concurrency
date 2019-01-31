@@ -5,7 +5,7 @@ import java.util.Vector;
 /**
  * @author geekerstar
  * date: 2019/1/22 10:48
- * description:
+ * description: 遍历集合，做remove操作
  */
 public class VectorExample3 {
 
@@ -53,7 +53,7 @@ public class VectorExample3 {
         vector.add(1);
         vector.add(2);
         vector.add(3);
-        test1(vector);
+        test3(vector);
     }
 }
 

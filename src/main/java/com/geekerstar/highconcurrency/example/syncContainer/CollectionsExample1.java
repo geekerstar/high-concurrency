@@ -14,7 +14,7 @@ import java.util.concurrent.Semaphore;
 /**
  * @author geekerstar
  * date: 2019/1/22 10:52
- * description:
+ * description: Collections.synchronizedList
  */
 @Slf4j
 @ThreadSafe
