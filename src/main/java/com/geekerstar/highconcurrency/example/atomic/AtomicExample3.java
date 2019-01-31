@@ -13,7 +13,7 @@ import java.util.concurrent.atomic.LongAdder;
 /**
  * @author geekerstar
  * date: 2019/1/21 15:24
- * description:
+ * description: LongAdder
  */
 @Slf4j
 @ThreadSafe

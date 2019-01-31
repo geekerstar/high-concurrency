@@ -8,7 +8,7 @@ import java.util.concurrent.atomic.AtomicReference;
 /**
  * @author geekerstar
  * date: 2019/1/21 15:31
- * description:
+ * description: AtomicReference
  */
 @Slf4j
 @ThreadSafe

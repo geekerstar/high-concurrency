@@ -10,7 +10,7 @@ import java.util.concurrent.atomic.AtomicIntegerFieldUpdater;
 /**
  * @author geekerstar
  * date: 2019/1/21 15:33
- * description:
+ * description: AtomicIntegerFieldUpdater
  */
 @Slf4j
 @ThreadSafe

@@ -12,7 +12,7 @@ import java.util.concurrent.atomic.AtomicInteger;
 /**
  * @author geekerstar
  * date: 2019/1/21 15:22
- * description:
+ * description: AtomicInteger
  */
 @Slf4j
 @ThreadSafe

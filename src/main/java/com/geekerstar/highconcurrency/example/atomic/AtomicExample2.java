@@ -12,7 +12,7 @@ import java.util.concurrent.atomic.AtomicLong;
 /**
  * @author geekerstar
  * date: 2019/1/21 15:23
- * description:
+ * description: 线程安全 AtomicLong
  */
 @Slf4j
 @ThreadSafe

@@ -12,7 +12,7 @@ import java.util.concurrent.atomic.AtomicBoolean;
 /**
  * @author geekerstar
  * date: 2019/1/21 15:39
- * description:
+ * description: AtomicBoolean
  */
 @Slf4j
 @ThreadSafe
