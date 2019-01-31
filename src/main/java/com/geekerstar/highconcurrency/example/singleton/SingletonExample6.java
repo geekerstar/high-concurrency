@@ -9,6 +9,8 @@ import com.geekerstar.highconcurrency.annoations.ThreadSafe;
  * description:
  * 饿汉模式
  * 单例实例在类装载时进行创建
+ *
+ * 注意顺序！！！
  */
 @ThreadSafe
 public class SingletonExample6 {

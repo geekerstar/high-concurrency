@@ -7,7 +7,7 @@ import com.geekerstar.highconcurrency.annoations.NotThreadSafe;
  * date: 2019/1/22 09:17
  * description:
  * 懒汉模式 -》 双重同步锁单例模式
- * 单例实例在第一次使用时进行创建
+ * 单例实例在第一次使用时进行创建  线程不安全，因为指令重排
  */
 @NotThreadSafe
 public class SingletonExample4 {

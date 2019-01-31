@@ -6,7 +6,7 @@ import com.geekerstar.highconcurrency.annoations.ThreadSafe;
 /**
  * @author geekerstar
  * date: 2019/1/22 09:27
- * description:枚举模式：最安全
+ * description: 枚举模式：最安全
  */
 @ThreadSafe
 @Recommend
@@ -23,6 +23,9 @@ public class SingletonExample7 {
         return Singleton.INSTANCE.getInstance();
     }
 
+    /**
+     * 私有枚举类
+     */
     private enum Singleton {
         INSTANCE;
 

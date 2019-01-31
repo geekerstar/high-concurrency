@@ -7,7 +7,7 @@ import lombok.extern.slf4j.Slf4j;
 /**
  * @author geekerstar
  * date: 2019/1/22 09:01
- * description:
+ * description: 对象逸出
  */
 @Slf4j
 @NotThreadSafe
